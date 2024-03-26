@@ -8,6 +8,7 @@ body{
     width: 100%;
     height: 100%;
     background-color: #202124;
+    overflow: hidden;
 }
 #cabecalho-area {
     width: 100%;
@@ -172,7 +173,7 @@ body{
     color: #fff;
     background-color: #171717;
     width: 100%;
-    height: 14vh;
+    height: 27vh;
     display: flex;
     flex-direction: column;   
 }

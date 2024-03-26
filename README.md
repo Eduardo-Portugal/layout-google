@@ -13,7 +13,7 @@
     <img src="./assets/design/Desktop-layout-google.png" alt="Desktop layout design" width="400px" align-item="center">
     <br>
     <h3>Mobile</h3>
-    <img src="./assets/design/Mobile-layout-google.png" alt="Mobile layout design" width="400px">
+    <img src="./assets/design/Mobile-layout-google1.png" alt="Mobile layout design" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
